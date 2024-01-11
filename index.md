@@ -11,7 +11,7 @@ sections:
       title: Noise.SG
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
+      button: How To Use noise.sg
       url: /contact-us/
       key_highlights:
         - title: Self-Help Guide
@@ -20,8 +20,8 @@ sections:
         - title: Submit A Complaint
           description: SingPass verification required
           url: https://gmail.com
-        - title: Get Started
-          description: How to use Noise.SG
+        - title: Process Pathways
+          description: Journey of a complaint
           url: /privacy/
   - infobar:
       title: Infobar title
